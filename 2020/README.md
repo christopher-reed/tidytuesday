@@ -1,3 +1,9 @@
+# Week 29
+<details>
+  <summary>Week 29 Click to expand!</summary>
+  ![week_29](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_29/astronaut_fig.PNG)
+</details>
+
 # Week 28
 <details>
   <summary>Week 28 Click to expand!</summary>
