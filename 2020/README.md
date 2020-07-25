@@ -1,13 +1,18 @@
 # Week 30
 <details>
   <summary>Week 30 Click to expand!</summary>
+  
+  ## Final Visualization
   ![week_29](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_30/images/RSPCA_animal_outcomes.jpg)
+  
 </details>
 
 
 # Week 29
 <details>
   <summary>Week 29 Click to expand!</summary>
+  
+  ## Final Visualization
   ![week_29](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_29/astronaut_fig.PNG)
 </details>
 
