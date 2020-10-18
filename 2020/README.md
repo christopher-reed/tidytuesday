@@ -1,3 +1,12 @@
+# Week 42
+<details>
+  <summary>Week 30 Click to expand!</summary>
+  
+  ## Final Visualization
+  ![week_31](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_42/datasaurus_dozen.jpg)
+  
+</details>
+
 # Week 31
 <details>
   <summary>Week 30 Click to expand!</summary>
