@@ -1,9 +1,20 @@
+
+# Week 43
+<details>
+  <summary>Week 43 Click to expand!</summary>
+  
+  ## Final Visualization
+  ![week_43](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_43/tidytuesday_beer.jpg)
+  
+</details>
+
+
 # Week 42
 <details>
   <summary>Week 42 Click to expand!</summary>
   
   ## Final Visualization
-  ![week_31](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_42/datasaurus_dozen.jpg)
+  ![week_42](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_42/datasaurus_dozen.jpg)
   
 </details>
 
@@ -12,7 +23,7 @@
   <summary>Week 39 Click to expand!</summary>
   
   ## Final Visualization
-  ![week_31](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_39/everest.jpg)
+  ![week_39](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_39/everest.jpg)
   
 </details>
 
