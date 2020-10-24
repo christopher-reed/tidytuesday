@@ -4,6 +4,8 @@ Forcing Python to do data visualizations R can do easily!
 # Highlights
 ![xmen](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
 
+![week_43](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_43/tidytuesday_beer.jpg)
+
 ![week_31_final](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_31/images/penguins_final.jpg)
 
 ![week_39](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_39/everest.jpg)
