@@ -1,4 +1,14 @@
 
+# Week 45
+<details>
+  <summary>Week 45 Click to expand!</summary>
+  
+  ## Final Visualization
+  ![week_45](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_45/ikea.jpg)
+  
+</details>
+
+
 # Week 43
 <details>
   <summary>Week 43 Click to expand!</summary>
