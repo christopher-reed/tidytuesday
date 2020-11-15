@@ -10,6 +10,8 @@ Forcing Python to do data visualizations R can do easily!
 
 ![week_31_final](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_31/images/penguins_final.jpg)
 
+![week_46](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_46/tidy_tuesday_phones.jpg)
+
 ![week_39](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_39/everest.jpg)
 
 ![week_42](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_42/datasaurus_dozen.jpg)
