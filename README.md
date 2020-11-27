@@ -50,7 +50,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 ### [2020/43](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_43) 🍻 Great American Beer Festival by [GABF](https://www.greatamericanbeerfestival.com/the-competition/winners/)
 
-![week_43_great_american_beer_festival](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_43)
+![week_43_great_american_beer_festival](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_43/tidytuesday_beer.jpg)
 
 ***
 
