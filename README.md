@@ -1,5 +1,5 @@
-# tidytuesday
-Forcing Python to do data visualizations R can do easily!
+# TidyTuesday
+:bar_chart: My contributions to the #TidyTuesday challenge
 
 # Highlights
 
