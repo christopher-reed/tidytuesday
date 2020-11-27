@@ -1,3 +1,15 @@
+
+# Week 48
+<details>
+  <summary>Week 48 Click to expand!</summary>
+  
+  ## Final Visualization
+  ![week_48](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_48/washington_trails.jpg)
+  
+</details>
+
+
+
 # Week 46
 <details>
   <summary>Week 46 Click to expand!</summary>
