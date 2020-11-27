@@ -2,6 +2,9 @@
 Forcing Python to do data visualizations R can do easily!
 
 # Highlights
+
+![week_48](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_48/washington_trails.jpg)
+
 ![xmen](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
 
 ![week_43](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_43/tidytuesday_beer.jpg)
