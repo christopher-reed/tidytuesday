@@ -31,7 +31,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 </details>
 
 ***
-### [2020/49](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg) 🏠 Toronto Shelters by [`opendatatoronto`](https://github.com/sharlagelfand/opendatatoronto)
+### [2020/49](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_49) 🏠 Toronto Shelters by [`opendatatoronto`](https://github.com/sharlagelfand/opendatatoronto)
 
 ![week_49_toronto_shelters.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg)
 
