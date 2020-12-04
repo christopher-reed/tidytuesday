@@ -37,7 +37,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 ***
 
-### [2020/48](https://raw.githubusercontent.com/christopher-reed/tidytuesday/tree/master/2020/week_48) 🌲 Washington Trails by [WTA](https://www.wta.org/)
+### [2020/48](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_48) 🌲 Washington Trails by [WTA](https://www.wta.org/)
 
 ![week_48_washington_trails.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_48/washington_trails.jpg)
 
