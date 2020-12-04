@@ -24,9 +24,16 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2020/45 [📏 IKEA Furniture](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_45/ikea.jpg)
   - 2020/46 [📱 Historical Phones](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_46/tidy_tuesday_phones.jpg)
   - 2020/48[🌲 Washington Trails](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_48/washington_trails.jpg)
+  - 2020/49 [🏠 Toronto Shelters](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg)
+  
 <!-- tocstop -->
 
 </details>
+
+***
+### [2020/49](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg) 🏠 Toronto Shelters by [`opendatatoronto`](https://github.com/sharlagelfand/opendatatoronto)
+
+![week_49_toronto_shelters.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg)
 
 ***
 
