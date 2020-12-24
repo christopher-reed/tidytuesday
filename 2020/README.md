@@ -1,3 +1,12 @@
+# Week 51
+<details>
+  <summary>Week 51 Click to expand!</summary>
+  
+  ## Final Visualization
+  ![week_51](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_51/Burgernomics.jpg)
+  
+</details>
+
 # Week 49
 <details>
   <summary>Week 49 Click to expand!</summary>
