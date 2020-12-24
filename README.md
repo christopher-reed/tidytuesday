@@ -25,12 +25,18 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2020/46 [📱 Historical Phones](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_46/tidy_tuesday_phones.jpg)
   - 2020/48[🌲 Washington Trails](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_48/washington_trails.jpg)
   - 2020/49 [🏠 Toronto Shelters](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg)
+  - 2020/51 [🍔 The Big Mac Index](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_51/Burgernomics.jpg)
   
 <!-- tocstop -->
 
 </details>
+***
+### [2020/51](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_51) 🍔 The Big Mac Index by [the Economist](https://www.economist.com/news/2020/07/15/the-big-mac-index)
+
+![week_51_burgernomics.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_51/Burgernomics.jpg)
 
 ***
+
 ### [2020/49](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_49) 🏠 Toronto Shelters by [`opendatatoronto`](https://github.com/sharlagelfand/opendatatoronto)
 
 ![week_49_toronto_shelters.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_49/toronto_shelters_plot.jpg)
