@@ -31,6 +31,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 ***
+
 ### [2020/51](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_51) 🍔 The Big Mac Index by [the Economist](https://www.economist.com/news/2020/07/15/the-big-mac-index)
 
 ![week_51_burgernomics.jpg](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_51/Burgernomics.jpg)
