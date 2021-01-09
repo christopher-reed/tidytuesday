@@ -33,6 +33,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- tocstop -->
 
 </details>
+
 ### [2021/2](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_2) 🚅 Transit Costs Project by [TransitCosts.com](https://transitcosts.com/)
 
 ![week_2](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
