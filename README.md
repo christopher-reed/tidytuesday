@@ -12,6 +12,9 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   <summary>Contributions in chronological order (click to expand)</summary>
   
 <!-- toc -->
+* **Challenges 2021**
+  - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
+  
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
   - 2020/28 [☕️ Coffee Ratings](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_28/images/week_28_final.png)
@@ -30,6 +33,11 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- tocstop -->
 
 </details>
+### [2021/2](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_2) 🚅 Transit Costs Project by [TransitCosts.com](https://transitcosts.com/)
+
+![week_2](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
+
+***
 
 ### [2020/51](https://github.com/christopher-reed/tidytuesday/tree/master/2020/week_51) 🍔 The Big Mac Index by [the Economist](https://www.economist.com/news/2020/07/15/the-big-mac-index)
 
