@@ -14,6 +14,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- toc -->
 * **Challenges 2021**
   - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
+  - 2021/2 [🎨 Art Collections](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art.png)
   
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
@@ -33,6 +34,12 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- tocstop -->
 
 </details>
+
+### [2021/3]https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_3) 🎨 Art Collections by [Tate Art Museum](https://github.com/tategallery/collection)
+
+![week_3](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art.png)
+
+***
 
 ### [2021/2](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_2) 🚅 Transit Costs Project by [TransitCosts.com](https://transitcosts.com/)
 
