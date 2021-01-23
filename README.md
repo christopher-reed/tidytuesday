@@ -13,7 +13,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   
 <!-- toc -->
 * **Challenges 2021**
-  - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
+  - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs%20Low%20Resolution.png)
   - 2021/3 [🎨 Art Collections](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png)
   - 2021/4 [🇰🇪 Kenya Census](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
   
@@ -50,7 +50,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 ### [2021/2](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_2) 🚅 Transit Costs Project by [TransitCosts.com](https://transitcosts.com/)
 
-![week_2](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
+![week_2](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs%20Low%20Resolution.png)
 
 ***
 
