@@ -14,7 +14,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- toc -->
 * **Challenges 2021**
   - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs.png)
-  - 2021/3 [🎨 Art Collections](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art.png)
+  - 2021/3 [🎨 Art Collections](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png)
   - 2021/4 [🇰🇪 Kenya Census](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
   
 * **Challenges 2020**
@@ -36,7 +36,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 
-### [2021/4](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png) 🇰🇪 Kenya Census by [`rKenyaCensus`](https://github.com/Shelmith-Kariuki/rKenyaCensus)
+### [2021/4](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_4) 🇰🇪 Kenya Census by [`rKenyaCensus`](https://github.com/Shelmith-Kariuki/rKenyaCensus)
 
 ![week_4](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
 
@@ -44,7 +44,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 ### [2021/3](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_3) 🎨 Art Collections by [Tate Art Museum](https://github.com/tategallery/collection)
 
-![week_3](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art.png)
+![week_3](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png
 
 ***
 
