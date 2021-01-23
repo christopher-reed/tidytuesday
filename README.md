@@ -44,7 +44,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 ### [2021/3](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_3) 🎨 Art Collections by [Tate Art Museum](https://github.com/tategallery/collection)
 
-![week_3](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png
+![week_3](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png)
 
 ***
 
