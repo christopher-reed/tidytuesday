@@ -16,6 +16,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2021/2 [🚅 Transit Costs Project](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_2/Transit%20Costs%20Low%20Resolution.png)
   - 2021/3 [🎨 Art Collections](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_3/tate_art_low_res.png)
   - 2021/4 [🇰🇪 Kenya Census](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
+  - 2021/5 [♻️ Plastic Pollution](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_5/Break%20Free%20From%20Plastic%20Low%20Resolution.png)
   
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
@@ -36,6 +37,11 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 
+### [2021/5](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_5) ♻️ Plastic Pollution by [Break Free from Plastic](https://www.breakfreefromplastic.org/)
+
+![week_5](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_5/Break%20Free%20From%20Plastic%20Low%20Resolution.png)
+
+***
 ### [2021/4](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_4) 🇰🇪 Kenya Census by [`rKenyaCensus`](https://github.com/Shelmith-Kariuki/rKenyaCensus)
 
 ![week_4](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
