@@ -18,7 +18,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2021/4 [🇰🇪 Kenya Census](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_4/kenya_census_low_res.png)
   - 2021/5 [♻️ Plastic Pollution](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_5/Break%20Free%20From%20Plastic%20(Low%20Resolution).png)
   - 2021/7 [💰 Wealth and Income](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_7/Student%20Debt%20Low%20Resolution.png)
-  - 2021/8 [🕊️ Du Bois Challenge](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_8/Du%20Bois%20Challenge%20Portrait%2051%20Low%20Res.png)/Du%20Bois%20Challenge%20Portrait%2051%20Low%20Resolution.png)
+  - 2021/8 [🕊️ Du Bois Challenge](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_8/Du%20Bois%20Challenge%20Portrait%2051%20Low%20Res.png)
   
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
