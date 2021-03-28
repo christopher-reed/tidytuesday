@@ -19,6 +19,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2021/5 [♻️ Plastic Pollution](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_5/Break%20Free%20From%20Plastic%20(Low%20Resolution).png)
   - 2021/7 [💰 Wealth and Income](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_7/Student%20Debt%20Low%20Resolution.png)
   - 2021/8 [🕊️ Du Bois Challenge](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_8/Du%20Bois%20Challenge%20Portrait%2051%20Low%20Res.png)
+  - 2021/12 [🎮 Video Games](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_12/Steam%20Gaming%20Low%20Res.png)
   
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
@@ -38,6 +39,12 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 <!-- tocstop -->
 
 </details>
+
+### [2021/12](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_12) 🎮 Video Games by [Steam](https://www.kaggle.com/michau96/popularity-of-games-on-steam)
+
+![week_12](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_12/Steam%20Gaming%20Low%20Res.png)
+
+***
 
 ### [2021/8](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_8) 🕊️ Du Bois Challenge by [Du Bois Data Challenge](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge)
 
