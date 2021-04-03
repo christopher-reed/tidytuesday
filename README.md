@@ -41,7 +41,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 
-### [2021/14](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_14) 💄 Video Games by [The Pudding](https://pudding.cool/2021/03/foundation-names/)
+### [2021/14](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_14) 💄 Makeup Shades by [The Pudding](https://pudding.cool/2021/03/foundation-names/)
 
 ![week_14](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_14/Make%20Up%20Shades%20Low%20Res.png)
 
