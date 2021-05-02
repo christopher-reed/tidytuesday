@@ -42,7 +42,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 
-### [2021/17](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_17) 🎥 Neflix Titles by [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+### [2021/17](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_17) 🎥 Netflix Titles by [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
 ![week_17](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_17/Netflix%20Low%20Resolution.png)
 
