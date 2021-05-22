@@ -23,6 +23,7 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
   - 2021/14 [💄 Makeup Shades](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_14/Make%20Up%20Shades%20Low%20Resolution.png)
   - 2021/17 [🎥 Netflix Titles](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_17/Netflix%20Low%20Resolution.png)
   - 2021/20 [📶 US Broadband](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_20/Broadband%20Internet%20Access%20Low%20Resolution.jpg)
+  - 2021/20 [👔  Ask a Manager](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_21/Ask%20a%20Manager%20Low%20Res.png)
   
 * **Challenges 2020**
   - 2020/27 [🦸 Uncanny X-Men](https://github.com/christopher-reed/tidytuesday/blob/master/2020/week_27/images/xmen.png)
@@ -43,8 +44,14 @@ My contributions to the [#TidyTuesday challenge](https://github.com/rfordatascie
 
 </details>
 
+### [2021/21](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_21) 👔  Ask a Manager Survey by [Ask a Manager](https://www.askamanager.org/2021/05/some-findings-from-24000-peoples-salaries.html)
 
-### [2021/20](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_20) 📶 Netflix Titles by [Microsoft](https://github.com/microsoft/USBroadbandUsagePercentages)
+![week_21](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_21/Ask%20a%20Manager%20Low%20Res.png)
+
+***
+
+
+### [2021/20](https://github.com/christopher-reed/tidytuesday/tree/master/2021/week_20) 📶 US Broadband by [Microsoft](https://github.com/microsoft/USBroadbandUsagePercentages)
 
 ![week_20](https://github.com/christopher-reed/tidytuesday/blob/master/2021/week_20/Broadband%20Internet%20Access%20Low%20Resolution.jpg)
 
