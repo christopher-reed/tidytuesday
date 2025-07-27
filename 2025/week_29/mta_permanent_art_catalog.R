@@ -9,7 +9,7 @@
 library(tidyverse)
 library(tidytuesdayR)
 
-## DATA -----
+## READ IN DATA -----
 
 tuesdata <- tidytuesdayR::tt_load(2025, week = 29)
 
@@ -57,15 +57,28 @@ material_labels <- df_agency_material %>%
   distinct(material) %>%
   pull(.)
 
+## PLOTTING -----
+
+# Bar chart, facet by agency, display count in label
+
+pal <- c(
+  "NYCT" = "#E6AA68",
+  "Metro-North" = "#98473E",
+  "LIRR" = "#07090F"
+
+)
+
 ggplot(df_agency_material, aes(x = material, y = n, fill = agency)) +
   geom_col() +
-  geom_text(aes(label = n), vjust = 0.1) +
+  geom_text(aes(label = n), vjust = -0.2) +
   facet_wrap(~agency, ncol = 1, scales = "free_x") +
   scale_x_discrete(breaks = material_labels) +
+  scale_fill_manual(values = pal) +
+  coord_cartesian(clip = "off") +
   labs(
-    title = "NYC Transit Has the Most Public Art, with Glass and Mosaic & Tile as Popular Materials",
+    title = "NYC Transit Has the Most Public Art, with Glass and Tile as Popular Materials",
     subtitle = "Analysis of material preferences across NYC's three largest transit art collections",
-    caption = "Source: MTA Permanent Art Catalog\nCreator:christopher-reed",
+    caption = "Source: MTA Permanent Art Catalog\nCreator: christopher-reed",
     x = "",
     y = "Works of Art"
   ) +
@@ -73,4 +86,10 @@ ggplot(df_agency_material, aes(x = material, y = n, fill = agency)) +
   theme(
     legend.position = "none",
     axis.ticks = element_line(),
-    axis.text.x = element_text(angle = 30, hjust = 1))
+    axis.text.x = element_text(angle = 30, hjust = 1),
+    strip.text = element_text(face = "bold", size = 14),
+    plot.title = element_text(face = "bold", hjust = 0.5),
+    plot.subtitle = element_text(hjust = 0.5))
+
+# Save
+ggsave("2025/week_29/mta_permanent_art_catalog.png", dpi = 900, height = 8, width = 8, bg = "white")
